@@ -221,3 +221,8 @@ summary{
 .footer-content{
     font-size: 1.6rem;
 }
+
+.footer-content img{
+    width: 5rem;
+    height: 5rem;
+}
